@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	background-color: #D357D1;
+	padding: 20px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;	
+}
+.paragraf_12 {background-color: #75B769; }
+.novi_blok {
+	background-color: rgba(72,241,129,0.51);
+	padding:20px;
+	margin:20px;
+	width:60%;
+}
+h1,h2C {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	color: #CA0D38;
+}
+span {color: rgba(1,68,250,1.00)}
+body{
+	background-image:url("../moj html projekt/SLIKE/tulipani .jpg");
+	}
+a:link {
+	color: black;
+	background-color:#FECAED;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+a:hover{
+	background-color: darkgreen;
+}
+img {
+	height: 400px;
+}
